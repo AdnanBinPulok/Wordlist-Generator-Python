@@ -9,7 +9,7 @@ A Python-Based Code To Generate Wordlist
   "max_digits": 8,
   "delay": 0,
   "cpu_percentage": 100, <-- CPU PERCENTAGE. Suggested 100
-  "num_processes": 1
+  "num_processes": 1 <-- NUM_PROCESSES. Suggested 1
 }
 ```
 
