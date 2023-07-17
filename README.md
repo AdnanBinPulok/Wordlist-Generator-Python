@@ -13,6 +13,10 @@ A Python-Based Code To Generate Wordlist
 }
 ```
 
+**INSTALL MODULES**
+
+Run `pip install -r requirements.txt`
+
 
 
 *RUN `main.py` to generate a numeric password wordlist*
