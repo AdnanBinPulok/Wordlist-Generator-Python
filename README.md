@@ -14,4 +14,5 @@ A Python-Based Code To Generate Wordlist
 ```
 
 *RUN `main.py` to generate numeric password*
+
 Command:`python main.py`
