@@ -21,7 +21,7 @@ Run `pip install -r requirements.txt`
 
 *RUN `main.py` to generate a numeric password wordlist*
 
-#Command:`python main.py`
+Command:`python main.py`
 
 
 *RUN `chars.py` to generate an alphabetical password wordlist*
