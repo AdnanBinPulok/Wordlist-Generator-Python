@@ -13,6 +13,13 @@ A Python-Based Code To Generate Wordlist
 }
 ```
 
-*RUN `main.py` to generate numeric password*
+
+
+*RUN `main.py` to generate a numeric password wordlist*
 
 Command:`python main.py`
+
+
+*RUN `chars.py` to generate an alphabetical password wordlist*
+
+Command:`python chars.py`
