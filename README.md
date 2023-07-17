@@ -1,8 +1,8 @@
 # Wordlist-Generator-Python
-A Python Based Code To Generate Wordlist
+A Python-Based Code To Generate Wordlist
 
 
-**CONGIG.JSON**
+**CONFIG.JSON**
 ```
 {
   "min_digits": 8,
@@ -12,3 +12,6 @@ A Python Based Code To Generate Wordlist
   "num_processes": 1
 }
 ```
+
+*RUN `main.py` to generate numeric password*
+`python main.py`
